@@ -8,7 +8,7 @@
 
 Passionate about developing mobile apps in Android and with a strong interest in continuing to grow professionally in this area
 
-- 🌱 I’m currently focused on being an Android Jr developer, learnign by myself and improving every day (in process :smiley:) 
+- 🌱 I’m currently focused on being an Android developer, learnign by myself and improving every day (in process :smiley:) 
 - ⚡ Fun fact:  Playing video games :video_game: and reading :notebook: and share with my loved ones
 
  
